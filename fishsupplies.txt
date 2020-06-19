@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>Cameron's Webpage > Dog Supply</title>
+<style>
+body {
+background-color: red;
+
+}
+
+#content {
+
+background-color:white;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+width: 50%; 
+height: auto;
+padding: 10px;
+top: 10%; 
+margin-bottom: 10%;}
+
+table {
+  table-layout: fixed ;
+  width: 100% ;
+}
+</style>
+
+</head>
+<body>
+<Div id="content">
+<center>
+<h1>Cameron's Animal Supply Emporeum</h1>
+<a href="index.html">Home</a> - <a href="aboutus.html">About Us</a> - <a href="employees.html">Our team</a> - <a href="products.html"> Products</a> - <a href="dogsupplies.html"> Dog Supplies</a> -<a href="catsupplies.html">Cat Supplies</a> - <a href="fishsupplies.html">Fish Supplies</a> -<a href="policies.html">Policies</a> -<a href="contact_us.html">Contact us</a>
+</center>
+<h2>Fish Supplies</h2>
+<p><table style="width:100%">
+  
+  <tr>
+    <td><img src="dogshirt1.jpg" height="150px"><br />I still live with my parents </br>Color: Red<br />Cost: $35</td>
+    <td><img src="dogcollar.jpg" height="150px"><br />Dog Collar </br> Color: Black <br />Cost: $10</td>
+    <td><img src="vadercostume.jpg" height="150px"><br />Darth Vader Costume</br>Size: 8-12 lbs <br />Cost: $25</td>
+  </tr>
+  <tr>
+    <td><img src="pedigree.jpg" height="150px"><br />Pedigree </br>Adult Dog Food<br />Cost: $20</td>
+    <td><img src="purina.jpg" height="150px"><br />Purina</br>Adult Dog Food <br />Cost: $25</td>
+    <td><img src="puppy.jpg" height="150px"><br />Purina </br>Puppy Food <br />Cost: $20</td>
+  </tr>
+</table></p>
+</div>
+</body>
+</html>
